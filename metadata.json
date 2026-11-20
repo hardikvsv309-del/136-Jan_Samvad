@@ -1,0 +1,6 @@
+{
+  "name": "Waghodia Jan Samvad",
+  "description": "Citizen grievance redressal, transparent public work tracking, and constituency development platform for Waghodia.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
